@@ -13,14 +13,7 @@ This is a Next.js application built as a demonstration for Axcelerate. It showca
   - [Running the Development Server](#running-the-development-server)
   - [Running the Storybook](#running-the-storybook)
   - [Running the Unit Testing](#running-the-unit-testing)
-- [Project Structure](#project-structure)
-- [Dependencies](#dependencies)
-- [Data Fetching](#data-fetching)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [Deployment](#deployment)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Features
 
